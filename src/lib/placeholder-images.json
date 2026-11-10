@@ -1,0 +1,166 @@
+{
+  "placeholderImages": [
+    {
+      "id": "quiz_exam_1",
+      "description": "An image representing the CMFAS Master Challenge",
+      "imageUrl": "/images/pass_cmfas_library.jpg",
+      "imageHint": "exam challenge"
+    },
+    {
+      "id": "quiz_res_5",
+      "description": "An image representing the RES 5 Exam",
+      "imageUrl": "/images/pass_cmfas_res5.jpg",
+      "imageHint": "meeting exam"
+    },
+    {
+      "id": "quiz_hi_exam",
+      "description": "An image representing the HI Exam",
+      "imageUrl": "/images/pass_cmfas_HI.jpg",
+      "imageHint": "laptop study"
+    },
+    {
+      "id": "quiz_m9a_exam",
+      "description": "An image representing the M9A Exam",
+      "imageUrl": "/images/pass_cmfas_M9A.jpg",
+      "imageHint": "quiz education"
+    },
+    {
+      "id": "quiz_m9_exam",
+      "description": "An image representing the M9 Exam",
+      "imageUrl": "/images/pass_cmfas_M9.jpg",
+      "imageHint": "vintage knowledge"
+    },
+    {
+      "id": "quiz_m8_exam",
+      "description": "An image representing the M8 Exam",
+      "imageUrl": "/images/bus-stop.png",
+      "imageHint": "bus stop study"
+    },
+    {
+      "id": "quiz_m8a_exam",
+      "description": "An image representing the M8A Exam",
+      "imageUrl": "https://images.unsplash.com/photo-1665656653092-684fdd316aca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhZHZhbmNlZCUyMGNoYXJ0fGVufDB8fHx8fDE3NjgyODUwOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "advanced chart"
+    },
+    {
+      "id": "quiz_m8_technical_drill",
+      "description": "An image representing the M8 Technical Mastery Drill",
+      "imageUrl": "https://images.unsplash.com/photo-1665656653092-684fdd316aca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhZHZhbmNlZCUyMGNoYXJ0fGVufDB8fHx8fDE3NjgyODUwOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technical blueprint"
+    },
+    {
+      "id": "quiz_bcp_exam",
+      "description": "An image representing the BCP Exam",
+      "imageUrl": "https://images.unsplash.com/photo-1730311721496-3ba196e75f4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbnN1cmFuY2UlMjBjb25jZXB0c3xlbnwwfHx8fDE3NjgyODUxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "insurance concepts"
+    },
+    {
+      "id": "quiz_pgi_exam",
+      "description": "An image representing the PGI Exam",
+      "imageUrl": "https://images.unsplash.com/photo-1718128120413-783e25de9a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb25hbCUyMGluc3VyYW5jZXxlbnwwfHx8fDE3NjgyODUwOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "personal insurance"
+    },
+    {
+      "id": "quiz_comgi_exam",
+      "description": "An image representing the ComGI Exam",
+      "imageUrl": "https://images.unsplash.com/photo-1594665957040-d4f2fb6b2aab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnVzaW5lc3MlMjBpbnN1cmFuY2V8ZW58MHx8fHwxNzY4Mjg1MTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business insurance"
+    },
+    {
+      "id": "quiz_data_eng_exam",
+      "description": "An image representing a data engineering test",
+      "imageUrl": "https://images.unsplash.com/photo-1522252234503-e356532cafd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb2RlfGVufDB8fHx8MTc2ODQ1NzMyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code data"
+    },
+    {
+      "id": "summary_perfect",
+      "description": "An encouraging image for passing a quiz",
+      "imageUrl": "/images/pass_cmfas_hello.jpg",
+      "imageHint": "success celebration"
+    },
+    {
+      "id": "summary_improve",
+      "description": "An encouraging image for retaking a quiz to improve a score",
+      "imageUrl": "/images/pass_cmfas_hello.jpg",
+      "imageHint": "encouragement success"
+    },
+    {
+      "id": "power_bundle",
+      "description": "An image representing the AI-powered learning bundle",
+      "imageUrl": "/images/pass_cmfas_bundle.jpg",
+      "imageHint": "ai learning"
+    },
+    {
+      "id": "numerical_list",
+      "description": "An image representing a master list of numerical data points",
+      "imageUrl": "/images/pass_cmfas_20.jpg",
+      "imageHint": "data list"
+    },
+    {
+      "id": "pioneer_promo",
+      "description": "An image of a friendly person for the pioneer promotion",
+      "imageUrl": "/images/pass_cmfas_hello.jpg",
+      "imageHint": "greeting person"
+    },
+    {
+      "id": "first_purchase_promo",
+      "description": "An image of a library for the first purchase discount",
+      "imageUrl": "/images/pass_cmfas_library.jpg",
+      "imageHint": "library knowledge"
+    },
+    {
+      "id": "auditing_guide",
+      "description": "An image representing the auditing guide",
+      "imageUrl": "/images/pass_cmfas_M9A.jpg",
+      "imageHint": "financial audit"
+    },
+    {
+      "id": "formulas_guide",
+      "description": "An image representing the formulas and definitions guide",
+      "imageUrl": "/images/resources.png",
+      "imageHint": "math formula"
+    },
+    {
+      "id": "instruments_guide",
+      "description": "An image representing the instruments and insurance guide",
+      "imageUrl": "https://images.unsplash.com/photo-1614028674026-a65e31bfd27c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmaW5hbmNpYWwlMjBtYXJrZXR8ZW58MHx8fHwxNzY4NDU3NDEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "financial market"
+    },
+    {
+      "id": "gwen_founder_image",
+      "description": "A photo of the founder, Gwen.",
+      "imageUrl": "/images/gwen_founder.png",
+      "imageHint": "founder portrait"
+    },
+    {
+      "id": "ngo_hero",
+      "description": "An image representing fundraising for NGOs",
+      "imageUrl": "/images/ngo.png",
+      "imageHint": "community support"
+    },
+    {
+      "id": "latest_tech",
+      "description": "Singapore skyline",
+      "imageUrl": "/images/singapore.png",
+      "imageHint": "singapore skyline"
+    },
+    {
+      "id": "quiz_psle_science_2024",
+      "description": "An image representing the PSLE Science exam",
+      "imageUrl": "https://images.unsplash.com/photo-1758685734153-132c8620c1bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzY2llbmNlJTIwZWR1Y2F0aW9ufGVufDB8fHx8MTc2ODMzNDAwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science education"
+    },
+    {
+      "id": "quiz_psle_maths_2024",
+      "description": "An image representing the PSLE Maths exam",
+      "imageUrl": "https://images.unsplash.com/photo-1754304342501-54bad0a6d195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYXRoJTIwY2xhc3Nyb29tfGVufDB8fHx8MTc2ODQyMDUxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "math classroom"
+    },
+    {
+      "id": "feature_dynamic_quizzes",
+      "description": "A person studying in a cozy cafe, representing personalized learning.",
+      "imageUrl": "/images/cafe-study.png",
+      "imageHint": "cafe study"
+    }
+  ]
+}

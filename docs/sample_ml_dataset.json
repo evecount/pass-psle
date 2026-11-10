@@ -1,0 +1,528 @@
+
+[
+  {
+    "interaction_id": "ia_001",
+    "user_id": "user_alpha",
+    "question_id": "2001",
+    "session_timestamp": "2024-08-02T10:00:10Z",
+    "latency_ms": 12000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_2",
+        "option_1",
+        "option_4"
+      ],
+      "final_choice": "option_4"
+    },
+    "dwell_time_ms": 8000,
+    "semantic_variance": null,
+    "correction_count": 2,
+    "is_correct": false
+  },
+  {
+    "interaction_id": "ia_002",
+    "user_id": "user_alpha",
+    "question_id": "2002",
+    "session_timestamp": "2024-08-02T10:00:45Z",
+    "latency_ms": 5000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 15000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_003",
+    "user_id": "user_alpha",
+    "question_id": "2003",
+    "session_timestamp": "2024-08-02T10:01:20Z",
+    "latency_ms": 9500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_1",
+        "option_4",
+        "option_2"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 6000,
+    "semantic_variance": null,
+    "correction_count": 1,
+    "is_correct": false
+  },
+  {
+    "interaction_id": "ia_004",
+    "user_id": "user_alpha",
+    "question_id": "2004",
+    "session_timestamp": "2024-08-02T10:02:00Z",
+    "latency_ms": 6000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 18000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_005",
+    "user_id": "user_alpha",
+    "question_id": "2005",
+    "session_timestamp": "2024-08-02T10:02:50Z",
+    "latency_ms": 7500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_1",
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 13000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_006",
+    "user_id": "user_alpha",
+    "question_id": "2001",
+    "session_timestamp": "2024-08-03T10:00:12Z",
+    "latency_ms": 7000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_2"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 10000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_007",
+    "user_id": "user_alpha",
+    "question_id": "2002",
+    "session_timestamp": "2024-08-03T10:00:50Z",
+    "latency_ms": 15000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_1",
+        "option_3",
+        "option_2"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 9000,
+    "semantic_variance": null,
+    "correction_count": 1,
+    "is_correct": false
+  },
+  {
+    "interaction_id": "ia_008",
+    "user_id": "user_alpha",
+    "question_id": "2003",
+    "session_timestamp": "2024-08-03T10:01:30Z",
+    "latency_ms": 6000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_2"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 11000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_009",
+    "user_id": "user_alpha",
+    "question_id": "2004",
+    "session_timestamp": "2024-08-03T10:02:10Z",
+    "latency_ms": 9000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_1",
+        "option_2"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 16000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_010",
+    "user_id": "user_alpha",
+    "question_id": "2005",
+    "session_timestamp": "2024-08-03T10:03:00Z",
+    "latency_ms": 10000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_1",
+        "option_2",
+        "option_3"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 14000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_011",
+    "user_id": "user_alpha",
+    "question_id": "2001",
+    "session_timestamp": "2024-08-04T10:00:15Z",
+    "latency_ms": 5000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 12000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_012",
+    "user_id": "user_alpha",
+    "question_id": "2002",
+    "session_timestamp": "2024-08-04T10:00:55Z",
+    "latency_ms": 8000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 11000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_013",
+    "user_id": "user_alpha",
+    "question_id": "2003",
+    "session_timestamp": "2024-08-04T10:01:35Z",
+    "latency_ms": 5500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 13000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_014",
+    "user_id": "user_alpha",
+    "question_id": "2004",
+    "session_timestamp": "2024-08-04T10:02:15Z",
+    "latency_ms": 7000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 17000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ia_015",
+    "user_id": "user_alpha",
+    "question_id": "2005",
+    "session_timestamp": "2024-08-04T10:03:05Z",
+    "latency_ms": 6500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 15000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_001",
+    "user_id": "user_beta",
+    "question_id": "2001",
+    "session_timestamp": "2024-08-02T11:00:15Z",
+    "latency_ms": 4000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 16000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_002",
+    "user_id": "user_beta",
+    "question_id": "2002",
+    "session_timestamp": "2024-08-02T11:00:55Z",
+    "latency_ms": 4500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 14000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_003",
+    "user_id": "user_beta",
+    "question_id": "2003",
+    "session_timestamp": "2024-08-02T11:01:35Z",
+    "latency_ms": 8000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_2",
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 19000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_004",
+    "user_id": "user_beta",
+    "question_id": "2004",
+    "session_timestamp": "2024-08-02T11:02:15Z",
+    "latency_ms": 9000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_1",
+        "option_2",
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 12000,
+    "semantic_variance": null,
+    "correction_count": 1,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_005",
+    "user_id": "user_beta",
+    "question_id": "2005",
+    "session_timestamp": "2024-08-02T11:03:05Z",
+    "latency_ms": 11000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_2",
+        "option_4",
+        "option_1"
+      ],
+      "final_choice": "option_1"
+    },
+    "dwell_time_ms": 7000,
+    "semantic_variance": null,
+    "correction_count": 1,
+    "is_correct": false
+  },
+  {
+    "interaction_id": "ib_006",
+    "user_id": "user_beta",
+    "question_id": "2001",
+    "session_timestamp": "2024-08-03T11:00:20Z",
+    "latency_ms": 6000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_2"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 17000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_007",
+    "user_id": "user_beta",
+    "question_id": "2002",
+    "session_timestamp": "2024-08-03T11:01:00Z",
+    "latency_ms": 7000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_2"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 15000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_008",
+    "user_id": "user_beta",
+    "question_id": "2003",
+    "session_timestamp": "2024-08-03T11:01:40Z",
+    "latency_ms": 8500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_2"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 20000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_009",
+    "user_id": "user_beta",
+    "question_id": "2004",
+    "session_timestamp": "2024-08-03T11:02:20Z",
+    "latency_ms": 9500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_2"
+      ],
+      "final_choice": "option_2"
+    },
+    "dwell_time_ms": 13000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_010",
+    "user_id": "user_beta",
+    "question_id": "2005",
+    "session_timestamp": "2024-08-03T11:03:10Z",
+    "latency_ms": 8000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 11000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_011",
+    "user_id": "user_beta",
+    "question_id": "2001",
+    "session_timestamp": "2024-08-04T11:00:25Z",
+    "latency_ms": 3500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 14000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_012",
+    "user_id": "user_beta",
+    "question_id": "2002",
+    "session_timestamp": "2024-08-04T11:01:05Z",
+    "latency_ms": 4000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 13000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_013",
+    "user_id": "user_beta",
+    "question_id": "2003",
+    "session_timestamp": "2024-08-04T11:01:45Z",
+    "latency_ms": 7500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 18000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_014",
+    "user_id": "user_beta",
+    "question_id": "2004",
+    "session_timestamp": "2024-08-04T11:02:25Z",
+    "latency_ms": 8500,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 12000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  },
+  {
+    "interaction_id": "ib_015",
+    "user_id": "user_beta",
+    "question_id": "2005",
+    "session_timestamp": "2024-08-04T11:03:15Z",
+    "latency_ms": 7000,
+    "pathing_data": {
+      "hover_sequence": [
+        "option_3"
+      ],
+      "final_choice": "option_3"
+    },
+    "dwell_time_ms": 10000,
+    "semantic_variance": null,
+    "correction_count": 0,
+    "is_correct": true
+  }
+]
