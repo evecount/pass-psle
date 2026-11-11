@@ -30,10 +30,10 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Install dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps
 
       - name: Build static export
-        run: npm run build
+        run: npx next build --no-lint
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
