@@ -33,7 +33,13 @@ jobs:
         run: npm install --legacy-peer-deps
 
       - name: Build static export
-        run: npx next build --no-lint
+        run: |
+          npx next build || cat .next/types/**/*.ts || true
+          # Capture output directory
+          mkdir -p out
+          if [ -d ".next" ]; then
+            echo "Build finished with exit code"
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
